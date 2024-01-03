@@ -1,8 +1,12 @@
 td {
-    border: 1px black solid;
+    /* border: 1px black solid; */
 }
 
 table {
     empty-cells: show;
     border-collapse: collapse;
+}
+
+.table-head {
+    background-color: aqua;
 }
