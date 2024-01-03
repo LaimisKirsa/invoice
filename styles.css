@@ -1,0 +1,8 @@
+td {
+    border: 1px black solid;
+}
+
+table {
+    empty-cells: show;
+    border-collapse: collapse;
+}
