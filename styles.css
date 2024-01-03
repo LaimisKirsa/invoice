@@ -1,12 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
 td {
-    /* border: 1px black solid; */
+    border: 1px black solid;
 }
 
 table {
     empty-cells: show;
     border-collapse: collapse;
+    width: 500px;
 }
 
 .table-head {
-    background-color: aqua;
+    /* background-color: aqua; */
+}
+
+.center-content {
+    text-align: center;
 }
