@@ -4,7 +4,7 @@ body {
 }
 
 td {
-    border: 1px black solid;
+    /* border: 1px black solid; */
 }
 
 table {
@@ -14,9 +14,28 @@ table {
 }
 
 .table-head {
-    /* background-color: aqua; */
+    background-color: rgb(15, 104, 182);
+    font-weight: bold;
+    color: white;
 }
 
 .center-content {
     text-align: center;
+}
+
+.bg-color {
+    background-color: rgb(102, 160, 222);
+}
+
+.number-align {
+    text-align: right;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.smaller-text {
+    font-size: 12px;
+    font-weight: bold;
 }
